@@ -14,7 +14,7 @@ I'm Mehedi Hasan a Full Stack Web Developer. I Spend most of time coding outstan
 :mailbox: Reach me out!
 <br><br>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mehedi09r)](https://twitter.com/mehedi09r) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-507165227/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/mehedi_0.8) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mehedi.hasan09r@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Mehedi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mehedi09r)](https://twitter.com/mehedi09r) [![Linkedin Badge](https://img.shields.io/badge/-Mehedi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-507165227/) [![Mail Badge](https://img.shields.io/badge/-@Mehedi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/mehedi_0.8) [![Mail Badge](https://img.shields.io/badge/-Mehedi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mehedi.hasan09r@gmail.com)
 </div>
 <br>
 
