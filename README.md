@@ -20,7 +20,7 @@ I'm Mehedi Hasan a Full Stack Web Developer. I Spend most of time coding outstan
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently working at @E-Blood Bank
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Project ideas.
 - 📫 How to reach me: mehedi08h@gmail.com.
