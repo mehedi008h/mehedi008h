@@ -35,6 +35,13 @@
 -   🌍 Checkout my [Portfolio](https://dev-mehedi.vercel.app/).
 
 -   📫 Reach me: [![Twitter Badge](https://img.shields.io/badge/-@Mehedi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mehedi09r)](https://twitter.com/mehedi09r) [![Linkedin Badge](https://img.shields.io/badge/-Mehedi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-507165227/) [![Mail Badge](https://img.shields.io/badge/-@Mehedi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/mehedi_0.8) [![Mail Badge](https://img.shields.io/badge/-Mehedi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mehedi.hasan09r@gmail.com)
+<div align="center">
+
+<hr>
+<br>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=mehedi008h&theme=juicyfresh&no-bg=true" />
+<br><br>
 <hr>
 <div align="center">
 <br>
