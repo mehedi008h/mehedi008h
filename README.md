@@ -35,35 +35,6 @@
 -   🌍 Checkout my [Portfolio](https://dev-mehedi.vercel.app/).
 
 -   📫 Reach me: [![Twitter Badge](https://img.shields.io/badge/-@Mehedi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mehedi09r)](https://twitter.com/mehedi09r) [![Linkedin Badge](https://img.shields.io/badge/-Mehedi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-507165227/) [![Mail Badge](https://img.shields.io/badge/-@Mehedi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/mehedi_0.8) [![Mail Badge](https://img.shields.io/badge/-Mehedi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mehedi.hasan09r@gmail.com)
-
-<div align="center">
-
-<hr>
-<br>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=mehedi008h&theme=juicyfresh&no-bg=true" />
-<br><br>
-<<<<<<< HEAD
-</div>
-<br>
-=======
-<hr>
-:mailbox: Reach me out!
-<br><br>
-
-[![Twitter Badge](https://img.shields.io/badge/-@Mehedi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mehedi09r)](https://twitter.com/mehedi09r) [![Linkedin Badge](https://img.shields.io/badge/-Mehedi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-507165227/) [![Mail Badge](https://img.shields.io/badge/-@Mehedi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/mehedi_0.8) [![Mail Badge](https://img.shields.io/badge/-Mehedi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mehedi.hasan09r@gmail.com)
-</div>
-<br>
-
-<!-- TODO: Add last video link -->
-
-- 🔭 I’m currently working at @E-Blood Bank
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Project ideas.
-- 📫 How to reach me: mehedi08h@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
-<br><br>
->>>>>>> 69c35c960a6c6f3dbf1702c99b225107b21f264c
 <hr>
 <div align="center">
 <br>
